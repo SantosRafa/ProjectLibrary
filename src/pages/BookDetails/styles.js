@@ -66,7 +66,7 @@ export const TitleContainer = styled.div`
     flex-direction:column;
 `;
 
-export const Title = styled.h1`
+export const Title = styled.h2`
     
 `;
 

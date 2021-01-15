@@ -89,7 +89,7 @@ export default function BookDetails(props) {
         onChange={changeRating}
         value={amountStars}
         size={24}
-        activeColor="#ffd700"
+        activeColor="#fff"
         />
         </ContainerPriceandRating>
       </ContainerMiddleInfo>
