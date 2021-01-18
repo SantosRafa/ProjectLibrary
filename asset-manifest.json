@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ProjectLibrary/static/css/main.25a7b6da.chunk.css",
+    "main.js": "/ProjectLibrary/static/js/main.ef0e3b36.chunk.js",
+    "main.js.map": "/ProjectLibrary/static/js/main.ef0e3b36.chunk.js.map",
+    "runtime-main.js": "/ProjectLibrary/static/js/runtime-main.2289f3b4.js",
+    "runtime-main.js.map": "/ProjectLibrary/static/js/runtime-main.2289f3b4.js.map",
+    "static/js/2.983cc504.chunk.js": "/ProjectLibrary/static/js/2.983cc504.chunk.js",
+    "static/js/2.983cc504.chunk.js.map": "/ProjectLibrary/static/js/2.983cc504.chunk.js.map",
+    "index.html": "/ProjectLibrary/index.html",
+    "static/css/main.25a7b6da.chunk.css.map": "/ProjectLibrary/static/css/main.25a7b6da.chunk.css.map",
+    "static/js/2.983cc504.chunk.js.LICENSE.txt": "/ProjectLibrary/static/js/2.983cc504.chunk.js.LICENSE.txt",
+    "static/media/GirlWithBook.b239f092.svg": "/ProjectLibrary/static/media/GirlWithBook.b239f092.svg",
+    "static/media/books.cf405735.svg": "/ProjectLibrary/static/media/books.cf405735.svg",
+    "static/media/covernotfind.0271c7aa.jpg": "/ProjectLibrary/static/media/covernotfind.0271c7aa.jpg",
+    "static/media/girlRead.abe3b780.svg": "/ProjectLibrary/static/media/girlRead.abe3b780.svg",
+    "static/media/heart.c31d61db.svg": "/ProjectLibrary/static/media/heart.c31d61db.svg",
+    "static/media/heartFilled.fb824694.svg": "/ProjectLibrary/static/media/heartFilled.fb824694.svg",
+    "static/media/left-arrow.da21225b.svg": "/ProjectLibrary/static/media/left-arrow.da21225b.svg",
+    "static/media/loupe.28b0ad10.svg": "/ProjectLibrary/static/media/loupe.28b0ad10.svg",
+    "static/media/plus.89fe7bf6.svg": "/ProjectLibrary/static/media/plus.89fe7bf6.svg",
+    "static/media/shopping-cart.891d6e79.svg": "/ProjectLibrary/static/media/shopping-cart.891d6e79.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2289f3b4.js",
+    "static/js/2.983cc504.chunk.js",
+    "static/css/main.25a7b6da.chunk.css",
+    "static/js/main.ef0e3b36.chunk.js"
+  ]
+}
